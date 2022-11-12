@@ -1,9 +1,9 @@
 {
-    "name": "prettier-plugin-twig-melody",
+    "name": "prettier-plugin-twig-nunjucks-melody",
     "version": "0.4.6",
-    "description": "Prettier Plugin for Twig/Melody",
+    "description": "Prettier Plugin for Twig/Melody and Nunjucks",
     "main": "src",
-    "repository": "https://github.com/trivago/prettier-plugin-twig-melody",
+    "repository": "https://github.com/trivago/prettier-plugin-twig-nunjucks-melody",
     "author": "Tom Bartel <thomas.bartel@trivago.com>",
     "license": "Apache 2.0",
     "files": [

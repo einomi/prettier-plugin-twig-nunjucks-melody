@@ -14,7 +14,7 @@ const languages = [
         aceMode: "html",
         codemirrorMode: "clike",
         codemirrorMimeType: "text/melody-twig",
-        extensions: [".melody.twig", ".html.twig", ".twig"],
+        extensions: [".melody.twig", ".html.twig", ".twig", ".nunj", ".njk", ".jinja", ".django"],
         linguistLanguageId: 0,
         vscodeLanguageIds: ["twig"]
     }
