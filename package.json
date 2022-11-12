@@ -1,6 +1,6 @@
 {
     "name": "prettier-plugin-twig-nunjucks-melody",
-    "version": "0.4.6",
+    "version": "0.0.1",
     "description": "Prettier Plugin for Twig/Melody and Nunjucks",
     "main": "src",
     "repository": "https://github.com/trivago/prettier-plugin-twig-nunjucks-melody",

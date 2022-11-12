@@ -4,12 +4,12 @@
 
 ---
 
-This Plugin enables Prettier to format `.twig` files, as well as `.html.twig` and `.melody.twig`. [Melody](https://melody.js.org) is a component based UI framework that uses Twig as its template language.
+This Plugin enables Prettier to format `.twig`, `.njk`, `.nunj`, `.jinja`, `.django` files, as well as `.html.twig` and `.melody.twig`. [Melody](https://melody.js.org) is a component based UI framework that uses Twig as its template language.
 
 ## Install
 
 ```bash
-yarn add --dev prettier-plugin-twig-melody
+yarn add --dev prettier-plugin-twig-nunjucks-melody
 ```
 
 ## Use
